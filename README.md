@@ -1,3 +1,6 @@
+<a href="https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg" /></a>
+
+
 <h1 align="center">Myroslav Hryhschenko </h1>
 
 <h5 align="center">Front-End Developer</h5>
