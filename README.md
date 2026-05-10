@@ -70,6 +70,7 @@ Menufy is an AI-powered mobile app that lets you point your camera at any restau
 | [react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) | Cross-platform ActionSheet with flexible API and native performance | ![npm](https://img.shields.io/npm/dw/react-native-actions-sheet?style=flat-square&color=58A6FF) |
 | [react-native-country-codes-picker](https://github.com/GeorgeHop/react-native-country-codes-picker) | Multi-language country picker with search, cross-platform | ![npm](https://img.shields.io/npm/dw/react-native-country-codes-picker?style=flat-square&color=58A6FF) |
 | [react-native-truncated-text-view](https://github.com/lohenyumnam/react-native-truncated-text-view) | Effortlessly truncate and expand text in React Native | ![npm](https://img.shields.io/npm/dw/react-native-truncated-text-view?style=flat-square&color=58A6FF) |
+| [react-native-pretty-toast](https://github.com/blazejkustra/react-native-pretty-toast) | Dynamic Island–aware toasts for React Native | ![npm](https://img.shields.io/npm/dw/react-native-pretty-toast?style=flat-square&color=58A6FF) |
 
 ---
 
